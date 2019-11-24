@@ -1,3 +1,11 @@
 apiVersion: v1
-entries: {}
-generated: "2019-11-23T18:34:48.973645473+01:00"
+entries:
+  regen:
+  - created: "2019-11-24T17:40:48.44227Z"
+    description: Regen Node chart.
+    digest: 331d5cd6a160b0bec26e14427df24f8a07bdfe00152b8032067601c05490d4c0
+    name: regen
+    urls:
+    - regen/regen-v0.1.0.tgz
+    version: v0.1.0
+generated: "2019-11-24T17:40:48.441813683Z"
