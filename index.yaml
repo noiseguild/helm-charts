@@ -2,25 +2,25 @@ apiVersion: v1
 entries:
   polkadot:
   - apiVersion: v2
-    created: "2020-09-23T12:34:29.606598516Z"
+    created: "2020-09-23T12:51:11.404115094Z"
     description: Polkadot Node chart.
-    digest: 7fcec1c86f11c71a6d493402f756c6c87aa2a945a4587aa57a6204c25bef9754
+    digest: 3029e7da511087d6f60608685de97c9f535dc75fbc6e56bf7413a7a35455d6c8
     name: polkadot
     urls:
     - polkadot/polkadot-v0.34.0.tgz
     version: v0.34.0
   polkadot-base-services:
   - apiVersion: v2
-    created: "2020-09-23T12:34:29.607982905Z"
+    created: "2020-09-23T12:51:11.405733046Z"
     description: Base services for Polkadot Node chart.
-    digest: a1bda38501c31eb8a64d1f8a898ebce8bb9b324926b75bde51aafdf5bee258b3
+    digest: 1b7981cec1b63d73a0bed08d8e8ed6144d369a136f02c4dca5979482faa04d60
     name: polkadot-base-services
     urls:
     - polkadot-base-services/polkadot-base-services-v0.34.0.tgz
     version: v0.34.0
   regen:
   - apiVersion: v2
-    created: "2020-09-23T12:34:29.622327555Z"
+    created: "2020-09-23T12:51:11.413060561Z"
     description: Regen Node chart.
     digest: b07ffbce69a48ac73958cb702e883b55d3b88078b2950b3ca417265abdb5c0c0
     name: regen
@@ -28,7 +28,7 @@ entries:
     - regen/regen-v0.7.5.tgz
     version: v0.7.5
   - apiVersion: v1
-    created: "2020-09-23T12:34:29.621203221Z"
+    created: "2020-09-23T12:51:11.412542636Z"
     description: Regen Node chart.
     digest: 2e1dc5e7e21c5fd19f5e07a513b9a3a5747a49c1d3c9ee5d42ee08268d8b626a
     name: regen
@@ -36,7 +36,7 @@ entries:
     - regen/regen-v0.7.4.tgz
     version: v0.7.4
   - apiVersion: v1
-    created: "2020-09-23T12:34:29.618617246Z"
+    created: "2020-09-23T12:51:11.412032137Z"
     description: Regen Node chart.
     digest: c33737edf8e051dab638e1dd6af5ba7f628118808f09a73503ecd89e052c03ca
     name: regen
@@ -44,7 +44,7 @@ entries:
     - regen/regen-v0.7.3.tgz
     version: v0.7.3
   - apiVersion: v1
-    created: "2020-09-23T12:34:29.617801602Z"
+    created: "2020-09-23T12:51:11.411511464Z"
     description: Regen Node chart.
     digest: c3a79b00b5a4b69c99dbbbe27c98c6f1eefe1306416a7b5f98f5a443fc60264d
     name: regen
@@ -52,7 +52,7 @@ entries:
     - regen/regen-v0.7.2.tgz
     version: v0.7.2
   - apiVersion: v1
-    created: "2020-09-23T12:34:29.616953111Z"
+    created: "2020-09-23T12:51:11.411024463Z"
     description: Regen Node chart.
     digest: 00a7f5b75cdb9855be5c199a7681057f042441cc84ec7c4c744af6eb7240b1c5
     name: regen
@@ -60,7 +60,7 @@ entries:
     - regen/regen-v0.7.1.tgz
     version: v0.7.1
   - apiVersion: v1
-    created: "2020-09-23T12:34:29.615999729Z"
+    created: "2020-09-23T12:51:11.410514375Z"
     description: Regen Node chart.
     digest: 7b44754ae2f9a1ba239824c293ce393458bfd178fa42373744237f56d9f0afbb
     name: regen
@@ -68,7 +68,7 @@ entries:
     - regen/regen-v0.5.1.tgz
     version: v0.5.1
   - apiVersion: v1
-    created: "2020-09-23T12:34:29.615219513Z"
+    created: "2020-09-23T12:51:11.410034938Z"
     description: Regen Node chart.
     digest: a0cf26b177ee95cac13d15575483ead66e6f523e2ba0b6bdd556ec4a4a7b162c
     name: regen
@@ -76,7 +76,7 @@ entries:
     - regen/regen-v0.5.0.tgz
     version: v0.5.0
   - apiVersion: v1
-    created: "2020-09-23T12:34:29.614434681Z"
+    created: "2020-09-23T12:51:11.409521728Z"
     description: Regen Node chart.
     digest: 27638707b6df0b851746b1fbef020a22f5a4a4ad832e4b99c85698d422fe9845
     name: regen
@@ -84,7 +84,7 @@ entries:
     - regen/regen-v0.4.1.tgz
     version: v0.4.1
   - apiVersion: v1
-    created: "2020-09-23T12:34:29.613694906Z"
+    created: "2020-09-23T12:51:11.409020991Z"
     description: Regen Node chart.
     digest: 064412c1b6c96ab36d242f38d11ba654b7456ec68718401eee31e95d9291ee34
     name: regen
@@ -92,7 +92,7 @@ entries:
     - regen/regen-v0.4.0.tgz
     version: v0.4.0
   - apiVersion: v1
-    created: "2020-09-23T12:34:29.612846508Z"
+    created: "2020-09-23T12:51:11.408552285Z"
     description: Regen Node chart.
     digest: 9718eda991a666aa394b990cf430ea498304d10153071cab130a505a9696d36b
     name: regen
@@ -100,7 +100,7 @@ entries:
     - regen/regen-v0.3.0.tgz
     version: v0.3.0
   - apiVersion: v1
-    created: "2020-09-23T12:34:29.612082163Z"
+    created: "2020-09-23T12:51:11.408094966Z"
     description: Regen Node chart.
     digest: 886260985e4cc0dea090be55144c3ca7fb2738ccf3ac8c30fe67ecba56212ac6
     name: regen
@@ -108,7 +108,7 @@ entries:
     - regen/regen-v0.2.0.tgz
     version: v0.2.0
   - apiVersion: v1
-    created: "2020-09-23T12:34:29.611291334Z"
+    created: "2020-09-23T12:51:11.407637635Z"
     description: Regen Node chart.
     digest: e4f8a24d4b2af34dbc1bd7c92525bec253a030fc0d6fde1d0c1b4c28d25f6f54
     name: regen
@@ -116,7 +116,7 @@ entries:
     - regen/regen-v0.1.3.tgz
     version: v0.1.3
   - apiVersion: v1
-    created: "2020-09-23T12:34:29.610497759Z"
+    created: "2020-09-23T12:51:11.407168752Z"
     description: Regen Node chart.
     digest: 40ba7ad744dd5fe69b3ffbbbe64a079403a2f434bfce9ce99518b35fc66f2335
     name: regen
@@ -124,7 +124,7 @@ entries:
     - regen/regen-v0.1.2.tgz
     version: v0.1.2
   - apiVersion: v1
-    created: "2020-09-23T12:34:29.60973493Z"
+    created: "2020-09-23T12:51:11.406711136Z"
     description: Regen Node chart.
     digest: 6ae05cc83b768ddf3eb4484c2f831461a296127206648ff4882f97defe0ffa5f
     name: regen
@@ -132,11 +132,11 @@ entries:
     - regen/regen-v0.1.1.tgz
     version: v0.1.1
   - apiVersion: v1
-    created: "2020-09-23T12:34:29.608801219Z"
+    created: "2020-09-23T12:51:11.406254978Z"
     description: Regen Node chart.
     digest: 331d5cd6a160b0bec26e14427df24f8a07bdfe00152b8032067601c05490d4c0
     name: regen
     urls:
     - regen/regen-v0.1.0.tgz
     version: v0.1.0
-generated: "2020-09-23T12:34:29.604004275Z"
+generated: "2020-09-23T12:51:11.402871838Z"
