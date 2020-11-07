@@ -2,7 +2,7 @@ apiVersion: v1
 entries:
   polkadot:
   - apiVersion: v2
-    created: "2020-11-07T12:28:22.05159144Z"
+    created: "2020-11-07T13:07:16.204755547Z"
     description: Polkadot Node chart.
     digest: 154b2727090d35c08976ef9821fe974d8c46f79a64955066c805af548bd67bf6
     name: polkadot
@@ -10,7 +10,7 @@ entries:
     - polkadot/polkadot-v1.1.0.tgz
     version: v1.1.0
   - apiVersion: v2
-    created: "2020-11-07T12:28:22.050414358Z"
+    created: "2020-11-07T13:07:16.204089007Z"
     description: Polkadot Node chart.
     digest: 0fabba107420b60ab261970b9c2d0c433199613f07d597be85c5b28d43dd5acf
     name: polkadot
@@ -18,7 +18,7 @@ entries:
     - polkadot/polkadot-v1.0.3.tgz
     version: v1.0.3
   - apiVersion: v2
-    created: "2020-11-07T12:28:22.049298873Z"
+    created: "2020-11-07T13:07:16.20349258Z"
     description: Polkadot Node chart.
     digest: 9d67edbde7d0df56e0d41d2630e60cb2d5ed832f61f9a0ae41d24b84e85bfc5a
     name: polkadot
@@ -26,7 +26,7 @@ entries:
     - polkadot/polkadot-v1.0.2.tgz
     version: v1.0.2
   - apiVersion: v2
-    created: "2020-11-07T12:28:22.048070142Z"
+    created: "2020-11-07T13:07:16.202888097Z"
     description: Polkadot Node chart.
     digest: 8e5b957b3ac1a158c913f91509e030fdf9af37e4678596384e276637553e7917
     name: polkadot
@@ -34,7 +34,7 @@ entries:
     - polkadot/polkadot-v1.0.1.tgz
     version: v1.0.1
   - apiVersion: v2
-    created: "2020-11-07T12:28:22.046799401Z"
+    created: "2020-11-07T13:07:16.202274247Z"
     description: Polkadot Node chart.
     digest: c0c5835afdaec8fc9c79ca53fb015226d8f1fd8b5b3e6e65dad88c84de25906d
     name: polkadot
@@ -42,7 +42,7 @@ entries:
     - polkadot/polkadot-v1.0.0.tgz
     version: v1.0.0
   - apiVersion: v2
-    created: "2020-11-07T12:28:22.045541083Z"
+    created: "2020-11-07T13:07:16.201631864Z"
     description: Polkadot Node chart.
     digest: 3029e7da511087d6f60608685de97c9f535dc75fbc6e56bf7413a7a35455d6c8
     name: polkadot
@@ -51,7 +51,7 @@ entries:
     version: v0.34.0
   polkadot-base-services:
   - apiVersion: v2
-    created: "2020-11-07T12:28:22.060700738Z"
+    created: "2020-11-07T13:07:16.210182696Z"
     description: Base services for Polkadot Node chart.
     digest: 0e67861b04f7844bca4ae935f08ca0dca8e2d7f875040c23a291894b16cfb61c
     name: polkadot-base-services
@@ -59,7 +59,7 @@ entries:
     - polkadot-base-services/polkadot-base-services-v1.1.0.tgz
     version: v1.1.0
   - apiVersion: v2
-    created: "2020-11-07T12:28:22.058564174Z"
+    created: "2020-11-07T13:07:16.208676504Z"
     description: Base services for Polkadot Node chart.
     digest: a104219fe1da37236397624e2befadea7f0cfe5f2e013d1df743070fba225e53
     name: polkadot-base-services
@@ -67,7 +67,7 @@ entries:
     - polkadot-base-services/polkadot-base-services-v1.0.3.tgz
     version: v1.0.3
   - apiVersion: v2
-    created: "2020-11-07T12:28:22.057066954Z"
+    created: "2020-11-07T13:07:16.207884317Z"
     description: Base services for Polkadot Node chart.
     digest: b232e2f42b7e0f8094d1fba34b9c9377618b9e2345e166c04141b38b0a726660
     name: polkadot-base-services
@@ -75,7 +75,7 @@ entries:
     - polkadot-base-services/polkadot-base-services-v1.0.2.tgz
     version: v1.0.2
   - apiVersion: v2
-    created: "2020-11-07T12:28:22.055674153Z"
+    created: "2020-11-07T13:07:16.207102759Z"
     description: Base services for Polkadot Node chart.
     digest: d1c10837b113118f7b254060b4fc37acb5dd61cddbfeca63ac7f55a9ea5a8a83
     name: polkadot-base-services
@@ -83,7 +83,7 @@ entries:
     - polkadot-base-services/polkadot-base-services-v1.0.1.tgz
     version: v1.0.1
   - apiVersion: v2
-    created: "2020-11-07T12:28:22.054227416Z"
+    created: "2020-11-07T13:07:16.206324035Z"
     description: Base services for Polkadot Node chart.
     digest: 83bd42f76b5ab73d14983b2593c5d2d57d9fae7dbe66b3b00316ec2b80e3a851
     name: polkadot-base-services
@@ -91,7 +91,7 @@ entries:
     - polkadot-base-services/polkadot-base-services-v1.0.0.tgz
     version: v1.0.0
   - apiVersion: v2
-    created: "2020-11-07T12:28:22.052857956Z"
+    created: "2020-11-07T13:07:16.205552648Z"
     description: Base services for Polkadot Node chart.
     digest: 1b7981cec1b63d73a0bed08d8e8ed6144d369a136f02c4dca5979482faa04d60
     name: polkadot-base-services
@@ -100,7 +100,7 @@ entries:
     version: v0.34.0
   polkadot-payouts:
   - apiVersion: v2
-    created: "2020-11-07T12:28:22.061373306Z"
+    created: "2020-11-07T13:07:16.210559191Z"
     description: Polkadot payouts
     digest: b348172dc6793d859cd236aad43edeeb1f6f635274cb05d3ee98258d4dc75c35
     name: polkadot-payouts
@@ -109,15 +109,15 @@ entries:
     version: v0.1.0
   polkadot-release:
   - apiVersion: v2
-    created: "2020-11-07T12:28:22.062207228Z"
+    created: "2020-11-07T13:07:16.210969512Z"
     description: Polkadot Relase
-    digest: 3707ff514a68cf569206afe8e7d4d06b0ea6def5e7bd92fb5c1e2b1a0206d8f6
+    digest: eca02f9925a55f90fc3b3cb76d81e25f2bfe872ac70c8090094384a653e7ecef
     name: polkadot-release
     urls:
     - polkadot-release/polkadot-release-v0.1.1.tgz
     version: v0.1.1
   - apiVersion: v2
-    created: "2020-11-07T12:28:22.061822933Z"
+    created: "2020-11-07T13:07:16.21076126Z"
     description: Polkadot Relase
     digest: 64d698ded4edaac26efdb3934efdff98c546400f274a12f467a7aed6fde75d8b
     name: polkadot-release
@@ -126,7 +126,7 @@ entries:
     version: v0.1.0
   polkadot-watcher:
   - apiVersion: v2
-    created: "2020-11-07T12:28:22.065146752Z"
+    created: "2020-11-07T13:07:16.21248293Z"
     description: Polkadot Watcher
     digest: aa46ca1b0e82f446f68c48f79cd5701afc43f702d710baf060b6fb0d45705618
     name: polkadot-watcher
@@ -134,7 +134,7 @@ entries:
     - polkadot-watcher/polkadot-watcher-v0.3.1.tgz
     version: v0.3.1
   - apiVersion: v2
-    created: "2020-11-07T12:28:22.064456691Z"
+    created: "2020-11-07T13:07:16.212201907Z"
     description: Polkadot Watcher
     digest: 5b6539f9463f59c28db27f2f87445618d182a1eda35d4aa47a65652bb28dd1c2
     name: polkadot-watcher
@@ -142,7 +142,7 @@ entries:
     - polkadot-watcher/polkadot-watcher-v0.3.0.tgz
     version: v0.3.0
   - apiVersion: v2
-    created: "2020-11-07T12:28:22.06394552Z"
+    created: "2020-11-07T13:07:16.211915485Z"
     description: Polkadot Watcher
     digest: 2381b2c7361b03e3039c1ce8ac6255ae5183490059c4b8586d0dcea3ad7c70f9
     name: polkadot-watcher
@@ -150,7 +150,7 @@ entries:
     - polkadot-watcher/polkadot-watcher-v0.2.0.tgz
     version: v0.2.0
   - apiVersion: v2
-    created: "2020-11-07T12:28:22.063397303Z"
+    created: "2020-11-07T13:07:16.211633462Z"
     description: Polkadot Watcher
     digest: 69b18e3a30e15d3458170b5be1fb17cbb6647367a45b0934c7d71be523dd4f8a
     name: polkadot-watcher
@@ -158,7 +158,7 @@ entries:
     - polkadot-watcher/polkadot-watcher-v0.1.1.tgz
     version: v0.1.1
   - apiVersion: v2
-    created: "2020-11-07T12:28:22.062798896Z"
+    created: "2020-11-07T13:07:16.211330124Z"
     description: Polkadot Watcher
     digest: 1e1c1119858bfad44ccfa8cbe35b858a9a371dec80cf590ebf5144db98e680ea
     name: polkadot-watcher
@@ -167,7 +167,7 @@ entries:
     version: v0.1.0
   regen:
   - apiVersion: v2
-    created: "2020-11-07T12:28:22.077379159Z"
+    created: "2020-11-07T13:07:16.220488575Z"
     description: Regen Node chart.
     digest: b07ffbce69a48ac73958cb702e883b55d3b88078b2950b3ca417265abdb5c0c0
     name: regen
@@ -175,7 +175,7 @@ entries:
     - regen/regen-v0.7.5.tgz
     version: v0.7.5
   - apiVersion: v1
-    created: "2020-11-07T12:28:22.076484542Z"
+    created: "2020-11-07T13:07:16.220018022Z"
     description: Regen Node chart.
     digest: 2e1dc5e7e21c5fd19f5e07a513b9a3a5747a49c1d3c9ee5d42ee08268d8b626a
     name: regen
@@ -183,7 +183,7 @@ entries:
     - regen/regen-v0.7.4.tgz
     version: v0.7.4
   - apiVersion: v1
-    created: "2020-11-07T12:28:22.075625435Z"
+    created: "2020-11-07T13:07:16.219527624Z"
     description: Regen Node chart.
     digest: c33737edf8e051dab638e1dd6af5ba7f628118808f09a73503ecd89e052c03ca
     name: regen
@@ -191,7 +191,7 @@ entries:
     - regen/regen-v0.7.3.tgz
     version: v0.7.3
   - apiVersion: v1
-    created: "2020-11-07T12:28:22.074477955Z"
+    created: "2020-11-07T13:07:16.219018746Z"
     description: Regen Node chart.
     digest: c3a79b00b5a4b69c99dbbbe27c98c6f1eefe1306416a7b5f98f5a443fc60264d
     name: regen
@@ -199,7 +199,7 @@ entries:
     - regen/regen-v0.7.2.tgz
     version: v0.7.2
   - apiVersion: v1
-    created: "2020-11-07T12:28:22.073472973Z"
+    created: "2020-11-07T13:07:16.217688219Z"
     description: Regen Node chart.
     digest: 00a7f5b75cdb9855be5c199a7681057f042441cc84ec7c4c744af6eb7240b1c5
     name: regen
@@ -207,7 +207,7 @@ entries:
     - regen/regen-v0.7.1.tgz
     version: v0.7.1
   - apiVersion: v1
-    created: "2020-11-07T12:28:22.072990103Z"
+    created: "2020-11-07T13:07:16.217211958Z"
     description: Regen Node chart.
     digest: 7b44754ae2f9a1ba239824c293ce393458bfd178fa42373744237f56d9f0afbb
     name: regen
@@ -215,7 +215,7 @@ entries:
     - regen/regen-v0.5.1.tgz
     version: v0.5.1
   - apiVersion: v1
-    created: "2020-11-07T12:28:22.072344975Z"
+    created: "2020-11-07T13:07:16.2167483Z"
     description: Regen Node chart.
     digest: a0cf26b177ee95cac13d15575483ead66e6f523e2ba0b6bdd556ec4a4a7b162c
     name: regen
@@ -223,7 +223,7 @@ entries:
     - regen/regen-v0.5.0.tgz
     version: v0.5.0
   - apiVersion: v1
-    created: "2020-11-07T12:28:22.071566782Z"
+    created: "2020-11-07T13:07:16.216264881Z"
     description: Regen Node chart.
     digest: 27638707b6df0b851746b1fbef020a22f5a4a4ad832e4b99c85698d422fe9845
     name: regen
@@ -231,7 +231,7 @@ entries:
     - regen/regen-v0.4.1.tgz
     version: v0.4.1
   - apiVersion: v1
-    created: "2020-11-07T12:28:22.070741333Z"
+    created: "2020-11-07T13:07:16.21582701Z"
     description: Regen Node chart.
     digest: 064412c1b6c96ab36d242f38d11ba654b7456ec68718401eee31e95d9291ee34
     name: regen
@@ -239,7 +239,7 @@ entries:
     - regen/regen-v0.4.0.tgz
     version: v0.4.0
   - apiVersion: v1
-    created: "2020-11-07T12:28:22.069997643Z"
+    created: "2020-11-07T13:07:16.215366261Z"
     description: Regen Node chart.
     digest: 9718eda991a666aa394b990cf430ea498304d10153071cab130a505a9696d36b
     name: regen
@@ -247,7 +247,7 @@ entries:
     - regen/regen-v0.3.0.tgz
     version: v0.3.0
   - apiVersion: v1
-    created: "2020-11-07T12:28:22.069173134Z"
+    created: "2020-11-07T13:07:16.214852188Z"
     description: Regen Node chart.
     digest: 886260985e4cc0dea090be55144c3ca7fb2738ccf3ac8c30fe67ecba56212ac6
     name: regen
@@ -255,7 +255,7 @@ entries:
     - regen/regen-v0.2.0.tgz
     version: v0.2.0
   - apiVersion: v1
-    created: "2020-11-07T12:28:22.068367163Z"
+    created: "2020-11-07T13:07:16.21429753Z"
     description: Regen Node chart.
     digest: e4f8a24d4b2af34dbc1bd7c92525bec253a030fc0d6fde1d0c1b4c28d25f6f54
     name: regen
@@ -263,7 +263,7 @@ entries:
     - regen/regen-v0.1.3.tgz
     version: v0.1.3
   - apiVersion: v1
-    created: "2020-11-07T12:28:22.067594166Z"
+    created: "2020-11-07T13:07:16.213866516Z"
     description: Regen Node chart.
     digest: 40ba7ad744dd5fe69b3ffbbbe64a079403a2f434bfce9ce99518b35fc66f2335
     name: regen
@@ -271,7 +271,7 @@ entries:
     - regen/regen-v0.1.2.tgz
     version: v0.1.2
   - apiVersion: v1
-    created: "2020-11-07T12:28:22.066693303Z"
+    created: "2020-11-07T13:07:16.213433453Z"
     description: Regen Node chart.
     digest: 6ae05cc83b768ddf3eb4484c2f831461a296127206648ff4882f97defe0ffa5f
     name: regen
@@ -279,11 +279,11 @@ entries:
     - regen/regen-v0.1.1.tgz
     version: v0.1.1
   - apiVersion: v1
-    created: "2020-11-07T12:28:22.065932124Z"
+    created: "2020-11-07T13:07:16.212980886Z"
     description: Regen Node chart.
     digest: 331d5cd6a160b0bec26e14427df24f8a07bdfe00152b8032067601c05490d4c0
     name: regen
     urls:
     - regen/regen-v0.1.0.tgz
     version: v0.1.0
-generated: "2020-11-07T12:28:22.042948017Z"
+generated: "2020-11-07T13:07:16.200186783Z"
